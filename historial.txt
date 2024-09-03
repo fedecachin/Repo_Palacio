@@ -1,0 +1,15 @@
+    1  }ls
+    2  ls
+    3  ls -l
+    4  ls -la
+    5  pwd
+    6  whoami
+    7  echo "hola"
+    8  ls
+    9  cd repogit/
+   10  ls
+   11  git clone https://github.com/fedecachin/Repo_Palacio.git
+   12  ls
+   13  cd Repo_Palacio/
+   14  history
+   15  history > historial.txt
